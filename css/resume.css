@@ -117,8 +117,8 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 14rem;
-    max-height: 14rem;
+    max-width: 11rem;
+    max-height: 11rem;
     border: 0.5rem solid rgba(0 ,0 , 0, 0.3);
   }
   #sideNav .navbar-collapse {
