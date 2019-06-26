@@ -1,0 +1,9 @@
+
+/* background image */
+#page-top{
+  background-image: url("../img/bg-top.png");
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
