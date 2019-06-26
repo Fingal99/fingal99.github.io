@@ -7,3 +7,41 @@
   background-position: center;
   background-size: cover;
 }
+
+/* Gallery - https://bootsnipp.com/snippets/aMGnk */
+img.zoom {
+  width: 100%;
+  height: 200px;
+  border-radius:5px;
+  object-fit:cover;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
+      
+.transition {
+  -webkit-transform: scale(1.2); 
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.modal-header {
+
+  border-bottom: none;
+}
+.modal-title {
+    color:#000;
+}
+.modal-footer{
+  display:none;  
+}
+
+.small-gallery-image {
+  max-width: 100%;
+}
+
+.thumb {
+  padding: 15px;
+}
