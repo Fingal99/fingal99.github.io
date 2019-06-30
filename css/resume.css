@@ -108,6 +108,9 @@ p.lead {
     max-height: 11rem;
     border: 0.4rem solid rgba(255,255,255,.3);
   }
+  #sideNav .navbar-brand:hover .img-profile {
+    border: 0.4rem solid rgba(255, 255, 255, 0.5);
+  }
   #sideNav .navbar-brand.active .img-profile {
     border: 0.4rem solid rgba(255, 255, 255, 0.8);
   }
